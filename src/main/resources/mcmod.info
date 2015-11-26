@@ -1,0 +1,16 @@
+[
+{
+  "modid": "monocle",
+  "name": "Monocle",
+  "description": "A monocle for your character.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
