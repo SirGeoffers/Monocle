@@ -1,0 +1,6 @@
+{
+	"parent":"monocle:item/standard_item",
+	"textures": {
+		"layer0":"monocle:items/monocleHeadpiece"	
+	}
+}
